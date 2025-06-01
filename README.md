@@ -1,1 +1,3 @@
-The goal is to determine the operating system (OS) running on a target machine. This usually involves scanning network traffic or analyzing system banners or characteristics using tools like nmap, wireshark, or fingerprinting techniques.
+ HTML to create basic webpage elements like text, images, and links.
+Use CSS to style the page with colors, fonts, and layout.
+Add simple JavaScript to create interactive elements like alert buttons.
