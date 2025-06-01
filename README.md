@@ -1,1 +1,1 @@
-# wd-task-1
+The goal is to determine the operating system (OS) running on a target machine. This usually involves scanning network traffic or analyzing system banners or characteristics using tools like nmap, wireshark, or fingerprinting techniques.
